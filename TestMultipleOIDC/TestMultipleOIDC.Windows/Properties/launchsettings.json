@@ -1,0 +1,10 @@
+{
+  "profiles": {
+	"TestMultipleOIDC.Windows (Package)": {
+	  "commandName": "MsixPackage"
+	},
+	"TestMultipleOIDC.Windows (Unpackaged)": {
+	  "commandName": "Project"
+	}
+  }
+}
